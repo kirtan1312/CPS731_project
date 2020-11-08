@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545246787626",
+    "firebase_url": "https://cps-731.firebaseio.com",
+    "project_id": "cps-731",
+    "storage_bucket": "cps-731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545246787626:android:2d1d54a79a4b76bb612b53",
+        "android_client_info": {
+          "package_name": "com.example.healthytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545246787626-eg242ddpf7e5cn418bi8b9haruupo2r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLD93mNCfjuODwFkqKepTYfQA0YysAZvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545246787626-eg242ddpf7e5cn418bi8b9haruupo2r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
